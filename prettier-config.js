@@ -1,0 +1,1 @@
+module.exports = require('@thecodejs/eslint-rules/prettier-config')
